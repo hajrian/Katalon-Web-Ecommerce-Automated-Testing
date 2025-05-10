@@ -1,1 +1,1 @@
-Tetsing automatis dengan mengunakan katalon studio 
+Testing automatis dengan mengunakan katalon studio web ecommerce ..
